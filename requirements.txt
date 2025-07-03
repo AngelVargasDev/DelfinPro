@@ -1,5 +1,6 @@
 streamlit
-googlemaps
-numpy
 pandas
+numpy
+googlemaps
 ortools
+openpyxl  # para leer archivos .xlsx
