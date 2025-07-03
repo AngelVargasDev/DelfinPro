@@ -1,0 +1,5 @@
+streamlit
+googlemaps
+numpy
+pandas
+ortools
